@@ -17,7 +17,7 @@ website: https://simonbahn.github.io # Your website (eg. https://google.com)(opt
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
